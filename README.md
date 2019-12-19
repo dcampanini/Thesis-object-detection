@@ -1,7 +1,7 @@
 # Thesis-object-detection
 Thesis about object detection using Faster RCNN, SVM and  Random Forest
 
-Thesis title: " Detección de objetos usando Redes Neuronales Convolucionales junto con Random Forest y Support Vector Machine " ( Object detection using Convolutional Neural Networks with Random Forest and Support Vector Machone)
+Thesis title: " Detección de objetos usando Redes Neuronales Convolucionales junto con Random Forest y Support Vector Machine " ( Object detection using Convolutional Neural Networks with Random Forest and Support Vector Machine)
 
 Examples of detection in the dataset Pascal VOC 2007
 
